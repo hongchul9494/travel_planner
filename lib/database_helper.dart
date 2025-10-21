@@ -1,6 +1,7 @@
 
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
+
 import 'package:travel_planner/models/checklist_item.dart';
 import 'package:travel_planner/models/itinerary_item.dart';
 import 'package:travel_planner/models/trip.dart';

@@ -47,28 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCeLuOd7IVT4SPikTqkZcJ-gPQULwoc8kw',
-    appId: '1:891605876777:web:ec2d15fe32cfb14ef81c38',
-    messagingSenderId: '891605876777',
-    projectId: 'travel-planner-hongdroid',
-    authDomain: 'travel-planner-hongdroid.firebaseapp.com',
-    storageBucket: 'travel-planner-hongdroid.firebasestorage.app',
+    apiKey: 'AIzaSyCxSyHAfpXVukdhalx0ea93cnwnEFR4du4',
+    appId: '1:361922934819:web:57e56c3db9c88b5d1c9996',
+    messagingSenderId: '361922934819',
+    projectId: 'travel-planner-148a2',
+    authDomain: 'travel-planner-148a2.firebaseapp.com',
+    storageBucket: 'travel-planner-148a2.firebasestorage.app',
+    measurementId: 'G-M7D134EPB5',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCpDHuN_apZVONzShiRx6D6wIo62gFJQsU',
-    appId: '1:891605876777:android:22d3155f47efec69f81c38',
-    messagingSenderId: '891605876777',
-    projectId: 'travel-planner-hongdroid',
-    storageBucket: 'travel-planner-hongdroid.firebasestorage.app',
+    apiKey: 'AIzaSyDFIUVBZtZBzyvOlbW53X6z5eXwHn49qL8',
+    appId: '1:361922934819:android:d66ed79b1c03e3791c9996',
+    messagingSenderId: '361922934819',
+    projectId: 'travel-planner-148a2',
+    storageBucket: 'travel-planner-148a2.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDDUSTTYSRZEsDhIbx-2Ade__Ror-MFbMg',
-    appId: '1:891605876777:ios:754441e82de6a336f81c38',
-    messagingSenderId: '891605876777',
-    projectId: 'travel-planner-hongdroid',
-    storageBucket: 'travel-planner-hongdroid.firebasestorage.app',
+    apiKey: 'AIzaSyDAYOI7ysx6ob3uaEhWs_ZibWiIjDPTRQw',
+    appId: '1:361922934819:ios:24d1f3148a949d861c9996',
+    messagingSenderId: '361922934819',
+    projectId: 'travel-planner-148a2',
+    storageBucket: 'travel-planner-148a2.firebasestorage.app',
     iosBundleId: 'yes',
   );
+
 }
